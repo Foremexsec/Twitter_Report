@@ -12,3 +12,5 @@ requisito librerias:
 
 selenium o webdriver
 keyboard 
+
+Mas info: https://aureliohacking.blogspot.com/2019/07/twitter-report-script-para-reporte.html
